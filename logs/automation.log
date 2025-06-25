@@ -1,0 +1,30 @@
+12:14:09.178 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - *** Starting TC_002***
+12:14:09.488 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Home Page completed
+12:14:09.711 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:28)oggger - Login Page completed
+12:14:10.511 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:33)oggger - Account Page started
+12:14:10.514 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - *** Finished tc_002***
+12:15:15.743 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:15)oggger - *** Started TC_001 ***
+12:15:16.010 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:21)oggger - Clicked on My  Account
+12:15:16.322 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on Register link
+12:15:16.326 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:27)oggger - Providing customer details
+12:15:17.393 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:50)oggger - *** End TC_001 ***
+12:15:19.534 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - *** Starting TC_002***
+12:15:19.927 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Home Page completed
+12:15:20.118 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:28)oggger - Login Page completed
+12:15:20.743 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:33)oggger - Account Page started
+12:15:20.744 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - *** Finished tc_002***
+12:17:28.518 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:15)oggger - *** Started TC_001 ***
+12:17:28.874 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:21)oggger - Clicked on My  Account
+12:17:29.167 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on Register link
+12:17:29.172 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:27)oggger - Providing customer details
+12:17:30.247 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Registration(TC001_AccountRegistrationTest.java:50)oggger - *** End TC_001 ***
+12:17:31.924 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - *** Starting TC_002***
+12:17:32.548 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Home Page completed
+12:17:32.736 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:28)oggger - Login Page completed
+12:17:33.403 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:33)oggger - Account Page started
+12:17:33.403 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - *** Finished tc_002***
+12:28:49.516 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - *** Starting TC_002***
+12:28:49.839 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Home Page completed
+12:28:50.554 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:28)oggger - Login Page completed
+12:28:50.607 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:33)oggger - Account Page started
+12:28:50.608 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - *** Finished tc_002***
